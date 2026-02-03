@@ -12,7 +12,7 @@ CONFIG_FILE = 'settings.json'
 
 # Fixed Ticketum Constants
 VOIP_ID = "ISB-901"
-NID = "0"
+NID = "11111111110"
 DEPT_ID = "1"
 
 # ---------- Dedup / Anti-duplicate settings ----------
