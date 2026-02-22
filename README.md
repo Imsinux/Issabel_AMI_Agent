@@ -114,7 +114,7 @@ The generated EXE will:
 When a call is answered, the app opens:
 
 ```
-https://ticketum.bki.ir/#/usersummary/{call_id}/{DEPT_ID}/{caller_id}/{extension}
+https://ticketum.example.com/#/usersummary/{call_id}/{DEPT_ID}/{caller_id}/{extension}
 ```
 
 > Note: NID parameter has been removed in this version.
